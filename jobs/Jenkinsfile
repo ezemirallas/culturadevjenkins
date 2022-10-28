@@ -1,5 +1,5 @@
 pipeline {
-  agentS
+  agent
   environment {
     appName = "variable" 
   }
